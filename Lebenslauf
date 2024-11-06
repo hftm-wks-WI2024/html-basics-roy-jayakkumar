@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<html lang="de">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Mein Lebenslauf</title>
+</head>
+<body style="font-family: Arial, sans-serif; margin: 20px; background-color: #f4f4f4;">
+
+    <h1 style="text-align: center; color: #333;">Mein Lebenslauf</h1>
+
+    <!-- Über mich Abschnitt -->
+    <h2 style="color: #555; font-size: 1.5em; margin-top: 20px;">Über mich</h2>
+    <p style="font-size: 1em; color: #666;">Hallo, mein Name ist <strong>Roy Jayakkumar</strong>. Ich studiere Wirtschaftsinformatik an der hftm in Biel und wohne in Schüpfen.</p>
+
+    <!-- Kontakt Informationen -->
+    <h2 style="color: #555; font-size: 1.5em; margin-top: 20px;">Kontakt</h2>
+    <p style="font-size: 1em; color: #666;">Email: <a href="mailto:deinemail@beispiel.com">roy.jayakkumar@hftm.ch</a></p>
+    <p style="font-size: 1em; color: #666;">Mobile: +41 79 483 37 82</p>
+
+    <!-- Bild -->
+    <h2 style="color: #555; font-size: 1.5em; margin-top: 20px;">Bild</h2>
+    <img src="profilbild.jpg" alt="Profilbild" style="display: block; margin: 0 auto; border-radius: 50%; width: 150px; height: 150px;">
+
+    <!-- Links zu Profilen -->
+    <h2 style="color: #555; font-size: 1.5em; margin-top: 20px;">Meine Profile</h2>
+    <p><a href="https://www.instagram.com/roy.dfg" target="_blank" style="font-size: 1em; color: #0073e6;">instagram
+    </a></p>
+
+</body>
+</html>
